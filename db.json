@@ -6,7 +6,7 @@
       "breed" : "British Longhair x Maine Coon",
       "age" : "20 months",
       "sex" : "Male",
-      "image" : "https://stompfrog.github.io/prototype/scrabble.png",
+      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg",
       "profile" : "Scrabble is as friendly as he is fluffy. He will follow you everywhere you go, he talks a lot and he’s keen to rub noses at any given opportunity! As long as you have a steady supply of dreamies and lick-e-lix you are guaranteed a friend for life!"
     },
     {
@@ -15,40 +15,26 @@
       "breed" : "Weimaraner",
       "age" : "2 years",
       "sex" : "Male",
-      "image" : "https://stompfrog.github.io/prototype/kevin.png",
+      "image" : "https://stompfrog.github.io/prototype/kevin.jpg",
       "profile" : "If you want to feel loved in an obsessive, stalker all consuming way than Kevin is the dog for you. Have company everywhere you go, long walks in the hillsides, gardening, afternoon jigsaws or going to the bathroom, you'll never be alone. He is an all seasoned dog, getting you out for walks in all weathers but makes sure to cuddle you on the couch when you are slowly defrosting by the fire. He is all love and is ready to be your bestest best friend you'll ever have, adopted today!"
     },
     {
-      "name" : "Scrabble 3",
-      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
-      "breed" : "British Longhair x Maine Coon",
-      "age" : "20 months",
+      "name" : "Phil",
+      "nicknames" : ["Philly", "Philly Cheesecake"],
+      "breed" : "Cat",
+      "age" : "8 years",
       "sex" : "Male",
-      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
+      "image" : "https://stompfrog.github.io/prototype/phil.png",
+      "profile" : "I'm a champion fly-hunter and ear lobe connoisseur. I'm a pro at hugs and have an unhealthy obsession with scratch posts. Say goodbye to flies, but your ears might never be the same again!"
     },
     {
-      "name" : "Scrabble 4",
-      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
-      "breed" : "British Longhair x Maine Coon",
-      "age" : "20 months",
-      "sex" : "Male",
-      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
-    },
-    {
-      "name" : "Scrabble 5",
-      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
-      "breed" : "British Longhair x Maine Coon",
-      "age" : "20 months",
-      "sex" : "Male",
-      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
-    },
-    {
-      "name" : "Scrabble 6",
-      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
-      "breed" : "British Longhair x Maine Coon",
-      "age" : "20 months",
-      "sex" : "Male",
-      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
+      "name" : "Lil",
+      "nicknames" : ["Lilith", "Lisabeth"],
+      "breed" : "Cat",
+      "age" : "13 years",
+      "sex" : "Female",
+      "image" : "https://stompfrog.github.io/prototype/lil.png",
+      "profile" : "Adventurous and chatty with tiny paws, I'm the perfect mix of clumsy and graceful. Can't resist a good floor slide. Adopt me for endless fun and laughter!"
     }
   ]
 }
