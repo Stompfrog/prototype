@@ -4,13 +4,8 @@
       "name" : "Scrabble",
       "type" : "Cat",
       "age" : "20 months",
-      "image" : "scrabble.jpg"
-    },
-    {
-      "name" : "Scrabble",
-      "type" : "Cat",
-      "age" : "20 months",
-      "image" : "scrabble.jpg"
+      "image" : "scrabble.jpg",
+      "sex" : "male"
     }
   ]
 }
