@@ -1,11 +1,52 @@
 {
   "animals" : [
     {
-      "name" : "Scrabble",
-      "type" : "Cat",
+      "name" : "Scrabble 1",
+      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
+      "breed" : "British Longhair x Maine Coon",
       "age" : "20 months",
-      "image" : "scrabble.jpg",
-      "sex" : "male"
+      "sex" : "Male",
+      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
+    },
+    {
+      "name" : "Scrabble 2",
+      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
+      "breed" : "British Longhair x Maine Coon",
+      "age" : "20 months",
+      "sex" : "Male",
+      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
+    },
+    {
+      "name" : "Scrabble 3",
+      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
+      "breed" : "British Longhair x Maine Coon",
+      "age" : "20 months",
+      "sex" : "Male",
+      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
+    },
+    {
+      "name" : "Scrabble 4",
+      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
+      "breed" : "British Longhair x Maine Coon",
+      "age" : "20 months",
+      "sex" : "Male",
+      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
+    },
+    {
+      "name" : "Scrabble 5",
+      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
+      "breed" : "British Longhair x Maine Coon",
+      "age" : "20 months",
+      "sex" : "Male",
+      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
+    },
+    {
+      "name" : "Scrabble 6",
+      "nicknames" : ["Scrabs", "Scrabotski", "Scrabadoo"],
+      "breed" : "British Longhair x Maine Coon",
+      "age" : "20 months",
+      "sex" : "Male",
+      "image" : "https://stompfrog.github.io/prototype/scrabble.jpg"
     }
   ]
 }
