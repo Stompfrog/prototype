@@ -35,6 +35,15 @@
       "sex" : "Female",
       "image" : "https://stompfrog.github.io/prototype/lil.png",
       "profile" : "Adventurous and chatty with tiny paws, I'm the perfect mix of clumsy and graceful. Can't resist a good floor slide. Adopt me for endless fun and laughter!"
+    },
+    {
+      "name" : "Benito",
+      "nicknames" : ["Ben", "Benny", "Benchico Banana", "Angel Prince", "Snack Inspector"],
+      "breed" : "Lurcher",
+      "age" : "10 years",
+      "sex" : "Male",
+      "image" : "https://stompfrog.github.io/prototype/benito.png",
+      "profile" : "Do you have snacks that I could also have? Do you have body heat that I could steal? Are you going somewhere without me? Eat, sleep, walk, stay warm …that’s the Benito code. Has yet to see anything that that can’t be attempted to be eaten. Has yet to see another dog that can’t be barked at. Has yet to see a couch that can’t be snoozed in. Likes: Toast, Cheese, Getting tucked in under a blanket Dislikes: Squirrels & that jerk dog Tilly from next door."
     }
   ]
 }
