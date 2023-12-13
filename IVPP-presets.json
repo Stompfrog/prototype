@@ -660,7 +660,7 @@
                     "prep": "Season to taste"
                 },
                 {
-                    "title": "Sweet Patato",
+                    "title": "Sweet Potato",
                     "capability": "Bake",
                     "settings": [
                         {
@@ -675,7 +675,7 @@
                     "prep": "Season to taste"
                 },
                 {
-                    "title": "Sweet Patato Fries",
+                    "title": "Sweet Potato Fries",
                     "capability": "Air Fry",
                     "settings": [
                         {
