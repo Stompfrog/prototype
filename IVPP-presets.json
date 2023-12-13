@@ -1,0 +1,696 @@
+{
+    "title": "Pick a preset",
+    "items": [
+        {
+            "title": "Chicken",
+            "itemsTitle": "What type of Chicken do you have?",
+            "items": [
+                {
+                    "title": "Chicken: Whole",
+                    "capability": "Roast",
+                    "prep": "Season the chicken",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "60:00"
+                        }
+                    ],
+                    "finish": "Rest for 10 minutes"
+                },
+                {
+                    "title": "Boneless Breasts",
+                    "capability": "Air Fry",
+                    "prep": "Season the chicken",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "title": "Boneless Thighs",
+                    "capability": "Air Fry",
+                    "prep": "Season the chicken",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "title": "Wings",
+                    "capability": "Air Fry",
+                    "prep": "Season the chicken",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "15:00"
+                        }
+                    ],
+                    "finish": "Add your favourite sauce"
+                }
+            ]
+        },
+        {
+            "title": "Bacon",
+            "itemsTitle": "What type of bacon do you have?",
+            "items": [
+                {
+                    "title": "Back Bacon",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "10:00"
+                        }
+                    ],
+                    "prep": "Place the bacon evenly in your tray"
+                },
+                {
+                    "title": "Streaky Bacon",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "400ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "07:00"
+                        }
+                    ],
+                    "prep": "Place the bacon evenly in your tray"
+                },
+                {
+                    "title": "Lardons",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "04:00"
+                        }
+                    ],
+                    "prep": "Place the lardons evenly in your tray"
+                }
+            ]
+        },
+        {
+            "title": "Lamb",
+            "itemsTitle": "What cut of lamb do you have?",
+            "items": [
+                {
+                    "title": "Lamb Chops",
+                    "capability": "Air Fry",
+                    "prep": "Season the lamb",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "08:00"
+                        }
+                    ]
+                },
+                {
+                    "title": "Rack of Lamb",
+                    "capability": "Air Fry",
+                    "prep": "Season the lamb",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "22:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pork",
+            "itemsTitle": "What cut of pork do you have?",
+            "items": [
+                {
+                    "title": "Pork Chops",
+                    "capability": "Air Fry",
+                    "prep": "Season the pork",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12:00"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pork Escalope",
+                    "capability": "Air Fry",
+                    "prep": "Season the pork",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "07:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Beef",
+            "itemsTitle": "What cut of beef do you have?",
+            "items": [
+                {
+                    "title": "Burger",
+                    "capability": "Grill",
+                    "prep": "Season the burger",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "400ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12:00"
+                        }
+                    ],
+                    "tip": "Turn midway for perfect cooking"
+                },
+                {
+                    "title": "Ribeye",
+                    "capability": "Grill",
+                    "prep": "Season the ribeye",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "10:00"
+                        }
+                    ],
+                    "tip": "Turn midway for perfect cooking"
+                },
+                {
+                    "title": "Filet Mignon",
+                    "capability": "Grill",
+                    "prep": "Season the Filet",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "18:00"
+                        }
+                    ],
+                    "tip": "Turn midway for perfect cooking"
+                }
+            ]
+        },
+        {
+            "title": "Vegetables",
+            "itemsTitle": "What type of vegetable do you have?",
+            "items": [
+                {
+                    "title": "Asparagus",
+                    "capability": "Grill",
+                    "prep": "Season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Aubergine",
+                    "capability": "Air Fry",
+                    "prep": "Cut the aubergines in half and season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "320ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "25 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Broccoli, florets",
+                    "capability": "Air Fry",
+                    "prep": "Season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "6 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Brussels Sprouts",
+                    "capability": "Air Fry",
+                    "prep": "Season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "340ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "16 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Butternut Squash",
+                    "capability": "Air Fry",
+                    "prep": "Cut the butternut squash in 2.5cm cubes and season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "18 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Carrots",
+                    "capability": "Air Fry",
+                    "prep": "Cut the carrots in 2cm batons and season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "16 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Cauliflower, florets",
+                    "capability": "Air Fry",
+                    "prep": "Season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "14 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Corn on the cob (whole)",
+                    "capability": "Air Fry",
+                    "prep": "Season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "10 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Courgette Fries",
+                    "capability": "Air Fry",
+                    "prep": " Cut the courgettes in 1.5 cm slices and season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "15 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Mushrooms, sliced",
+                    "capability": "Air Fry",
+                    "prep": "Slice the mushrooms and season to taste",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "10 mins"
+                        }
+                    ]
+                },
+                {
+                    "title": "Peppers",
+                    "capability": "Grill",
+                    "prep": "Dice the peppers in 2-3cm cubes",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "400ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12 mins"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Frozen",
+            "itemsTitle": "What type of frozen food do you have?",
+            "items": [
+                {
+                    "title": "Frozen Chicken Nuggets",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "16 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Frozen Chips",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "18 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Frozen French Fries",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "16 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Frozen Pizza",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "9 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Frozen Sweet Potato Chips",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "16 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Frozen Fish Fingers",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                }
+            ]
+        },
+        {
+            "title": "Fish",
+            "itemsTitle": "What type of fish do you have?",
+            "items": [
+                {
+                    "title": "Fillet of white fish",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "10 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Prawns",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "6 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Salmon Fillet",
+                    "capability": "Bake",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Scallops",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "4 mins"
+                        }
+                    ],
+                    "prep": "Season to taste, turn once halfway through"
+                },
+                {
+                    "title": "Tuna steak",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "10 mins"
+                        }
+                    ],
+                    "prep": "Season to taste, turn once halfway through"
+                }
+            ]
+        },
+        {
+            "title": "Potatoes",
+            "itemsTitle": "What type of potatoes do you have?",
+            "items": [
+                {
+                    "title": "Potato Wedges",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "355ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "24 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Potato Fries",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "14 mins"
+                        }
+                    ],
+                    "prep": "Cut the potatoes evenly, and soak in cold water forn 30 min for perfect crunch",
+                    "tip": "Shake or turn halfway through cooking"
+                },
+                {
+                    "title": "Whole Potato",
+                    "capability": "Bake",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "35 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Baby Potatoes",
+                    "capability": "Bake",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "390ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "15 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Sweet Patato",
+                    "capability": "Bake",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "375ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "30 mins"
+                        }
+                    ],
+                    "prep": "Season to taste"
+                },
+                {
+                    "title": "Sweet Patato Fries",
+                    "capability": "Air Fry",
+                    "settings": [
+                        {
+                            "key": "Temp",
+                            "value": "190ºF"
+                        },
+                        {
+                            "key": "Time",
+                            "value": "12 mins"
+                        }
+                    ],
+                    "prep": "Cut the potatoes evenly, and soak in cold water forn 30 min for perfect crunch",
+                    "tip": "Shake or turn halfway through cooking"
+                }
+            ]
+        }
+    ]
+}
