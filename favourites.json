@@ -3,12 +3,12 @@
     {
         "title": "Salmon Fillet",
         "subtitle" : "10:00 • 350ºF",
-        "time_in_seconds" : 6000
+        "time_in_seconds" : 600
     },
     {
         "title": "Potato wedges",
         "subtitle" : "20:00 • 375ºF",
-        "time_in_seconds" : 12000
+        "time_in_seconds" : 1200
     }
   ]
 }
