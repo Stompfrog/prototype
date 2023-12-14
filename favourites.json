@@ -2,34 +2,13 @@
   "favourites" : [
     {
         "title": "Salmon Fillet",
-        "capability": "Bake",
-        "settings": [
-            {
-                "key": "Temp",
-                "value": "355ºF"
-            },
-            {
-                "key": "Time",
-                "value": "12 mins"
-            }
-        ],
-        "prep": "Season to taste"
+        "subtitle" : "10:00 • 350ºF"
+        "time_in_seconds" : 6000,
     },
     {
-        "title": "Potato Fries",
-        "capability": "Air Fry",
-        "settings": [
-            {
-                "key": "Temp",
-                "value": "390ºF"
-            },
-            {
-                "key": "Time",
-                "value": "14 mins"
-            }
-        ],
-        "prep": "Cut the potatoes evenly, and soak in cold water forn 30 min for perfect crunch",
-        "tip": "Shake or turn halfway through cooking"
-    }
-    ]
+        "title": "Potato wedges",
+        "subtitle" : "20:00 • 375ºF"
+        "time_in_seconds" : 12000,
+    },
+  ]
 }
