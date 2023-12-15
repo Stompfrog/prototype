@@ -214,19 +214,373 @@
                 },
                 {
                     "title": "Ribeye",
-                    "capability": "Grill",
-                    "prep": "Season the ribeye",
-                    "settings": [
+                    "itemsTitle": "Approximately how thick is your ribeye steak?",
+                    "items": [
                         {
-                            "key": "Temp",
-                            "value": "390ºF"
+                            "title": "1/2 inch",
+                            "itemsTitle": "How do you like your steak cooked?",
+                            "items": [
+                                {
+                                    "title": "Rare",
+                                    "subtitle": "Cool red center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium rare",
+                                    "subtitle": "Warm red center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium",
+                                    "subtitle": "Warm pink center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium well",
+                                    "subtitle": "Slightly pink center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Well done",
+                                    "subtitle": "Little of no pink",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                }
+                            ]
                         },
                         {
-                            "key": "Time",
-                            "value": "10:00"
+                            "title": "1 inch",
+                            "itemsTitle": "How do you like your steak cooked?",
+                            "items": [
+                                {
+                                    "title": "Rare",
+                                    "subtitle": "Cool red center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium rare",
+                                    "subtitle": "Warm red center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium",
+                                    "subtitle": "Warm pink center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium well",
+                                    "subtitle": "Slightly pink center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Well done",
+                                    "subtitle": "Little of no pink",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "1 1/2 inches",
+                            "itemsTitle": "How do you like your steak cooked?",
+                            "items": [
+                                {
+                                    "title": "Rare",
+                                    "subtitle": "Cool red center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium rare",
+                                    "subtitle": "Warm red center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium",
+                                    "subtitle": "Warm pink center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium well",
+                                    "subtitle": "Slightly pink center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Well done",
+                                    "subtitle": "Little of no pink",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "2 inches +",
+                            "itemsTitle": "How do you like your steak cooked?",
+                            "items": [
+                                {
+                                    "title": "Rare",
+                                    "subtitle": "Cool red center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium rare",
+                                    "subtitle": "Warm red center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium",
+                                    "subtitle": "Warm pink center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Medium well",
+                                    "subtitle": "Slightly pink center",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                },
+                                {
+                                    "title": "Well done",
+                                    "subtitle": "Little of no pink",
+                                    "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
+                                    "capability": "Grill",
+                                    "settings": [
+                                        {
+                                            "key": "Temp",
+                                            "value": "390ºF"
+                                        },
+                                        {
+                                            "key": "Time",
+                                            "value": "10:00"
+                                        }
+                                    ],
+                                    "tip": "Turn midway for perfect cooking"
+                                }
+                            ]
                         }
-                    ],
-                    "tip": "Turn midway for perfect cooking"
+                    ]
                 },
                 {
                     "title": "Filet Mignon",
