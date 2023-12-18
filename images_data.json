@@ -3,7 +3,7 @@
         {
             "items": [
                 {
-                    "image": "https://stompfrog.github.io/images/crispy_onion_rings.png",
+                    "image": "https://stompfrog.github.io/prototype/prototype/images/crispy_onion_rings.png",
                     "title": "Crispy Onion Rings",
                     "recipe": {
                         "difficulty": null,
@@ -405,7 +405,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/spicy_korean_cauliflower_bites.png",
+                    "image": "https://stompfrog.github.io/prototype/prototype/images/spicy_korean_cauliflower_bites.png",
                     "title": "Spicy Korean Cauliflower Bites",
                     "recipe": {
                         "steps": [
@@ -1277,7 +1277,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/corn_on_the_cob.png",
+                    "image": "https://stompfrog.github.io/prototype/prototype/images/corn_on_the_cob.png",
                     "title": "Corn on the Cob",
                     "recipe": {
                         "steps": [
@@ -1716,7 +1716,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/crispy_panko_fish_fry.png",
+                    "image": "https://stompfrog.github.io/prototype/prototype/images/crispy_panko_fish_fry.png",
                     "title": "Crispy Panko Fish Fry",
                     "recipe": {
                         "steps": [
@@ -2277,7 +2277,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/air_fryer_soft_boiled_eggs.png",
+                    "image": "https://stompfrog.github.io/prototype/prototype/images/air_fryer_soft_boiled_eggs.png",
                     "title": "Air Fryer Soft Boiled Eggs",
                     "recipe": {
                         "difficulty": null,
@@ -2420,7 +2420,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/easy_chips.png",
+                    "image": "https://stompfrog.github.io/prototype/images/easy_chips.png",
                     "title": "Easy Chips",
                     "recipe": {
                         "difficulty": null,
@@ -2672,7 +2672,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/ultimate_crispy_roast_potatoes.png",
+                    "image": "https://stompfrog.github.io/prototype/images/ultimate_crispy_roast_potatoes.png",
                     "title": "Ultimate Crispy Roast Potatoes",
                     "recipe": {
                         "steps": [
@@ -3007,7 +3007,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/crispy_onion_rings.png",
+                    "image": "https://stompfrog.github.io/prototype/images/crispy_onion_rings.png",
                     "title": "Crispy Onion Rings",
                     "recipe": {
                         "difficulty": null,
@@ -3409,7 +3409,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/spicy_korean_cauliflower_bites.png",
+                    "image": "https://stompfrog.github.io/prototype/images/spicy_korean_cauliflower_bites.png",
                     "title": "Spicy Korean Cauliflower Bites",
                     "recipe": {
                         "steps": [
@@ -4281,7 +4281,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/corn_on_the_cob.png",
+                    "image": "https://stompfrog.github.io/prototype/images/corn_on_the_cob.png",
                     "title": "Corn on the Cob",
                     "recipe": {
                         "steps": [
@@ -4720,7 +4720,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/crispy_panko_fish_fry.png",
+                    "image": "https://stompfrog.github.io/prototype/images/crispy_panko_fish_fry.png",
                     "title": "Crispy Panko Fish Fry",
                     "recipe": {
                         "steps": [
@@ -5281,7 +5281,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/air_fryer_soft_boiled_eggs.png",
+                    "image": "https://stompfrog.github.io/prototype/images/air_fryer_soft_boiled_eggs.png",
                     "title": "Air Fryer Soft Boiled Eggs",
                     "recipe": {
                         "difficulty": null,
@@ -5424,7 +5424,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/easy_chips.png",
+                    "image": "https://stompfrog.github.io/prototype/images/easy_chips.png",
                     "title": "Easy Chips",
                     "recipe": {
                         "difficulty": null,
@@ -5676,7 +5676,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/ultimate_crispy_roast_potatoes.png",
+                    "image": "https://stompfrog.github.io/prototype/images/ultimate_crispy_roast_potatoes.png",
                     "title": "Ultimate Crispy Roast Potatoes",
                     "recipe": {
                         "steps": [
@@ -6017,7 +6017,7 @@
         {
             "items": [
                 {
-                    "image": "https://stompfrog.github.io/images/curried_beef_arancini_balls.png",
+                    "image": "https://stompfrog.github.io/prototype/images/curried_beef_arancini_balls.png",
                     "title": "Curried Beef Arancini Balls",
                     "recipe": {
                         "steps": [
@@ -6522,7 +6522,7 @@
         {
             "items": [
                 {
-                    "image": "https://stompfrog.github.io/images/festive_mincemeat_swirls.png",
+                    "image": "https://stompfrog.github.io/prototype/images/festive_mincemeat_swirls.png",
                     "title": "Festive Mincemeat Swirls",
                     "recipe": {
                         "steps": [
@@ -7091,7 +7091,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/crispy_butternut_and_date_vegan_swirl.png",
+                    "image": "https://stompfrog.github.io/prototype/images/crispy_butternut_and_date_vegan_swirl.png",
                     "title": "Crispy Butternut and Date Vegan Swirl",
                     "recipe": {
                         "steps": [
@@ -7829,7 +7829,7 @@
         {
             "items": [
                 {
-                    "image": "https://stompfrog.github.io/images/crispy_panko_fish_fry.png",
+                    "image": "https://stompfrog.github.io/prototype/images/crispy_panko_fish_fry.png",
                     "title": "Crispy Panko Fish Fry",
                     "recipe": {
                         "steps": [
@@ -8390,7 +8390,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/chicken_katsu_burger.png",
+                    "image": "https://stompfrog.github.io/prototype/images/chicken_katsu_burger.png",
                     "title": "Chicken Katsu Burger",
                     "recipe": {
                         "steps": [
@@ -8883,7 +8883,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/5_minute_chocolate_lava_cakes.png",
+                    "image": "https://stompfrog.github.io/prototype/images/5_minute_chocolate_lava_cakes.png",
                     "title": "5 Minute Chocolate Lava Cakes",
                     "recipe": {
                         "steps": [
@@ -9255,7 +9255,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/images/crispy_fish_and_peas.png",
+                    "image": "https://stompfrog.github.io/prototype/images/crispy_fish_and_peas.png",
                     "title": "Crispy Fish and Peas",
                     "recipe": {
                         "steps": [
