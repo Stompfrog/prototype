@@ -3,7 +3,7 @@
         {
             "items": [
                 {
-                    "image": "https://stompfrog.github.io/prototype/prototype/images/crispy_onion_rings.png",
+                    "image": "https://stompfrog.github.io/prototype/images/crispy_onion_rings.png",
                     "title": "Crispy Onion Rings",
                     "recipe": {
                         "difficulty": null,
@@ -405,7 +405,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/prototype/prototype/images/spicy_korean_cauliflower_bites.png",
+                    "image": "https://stompfrog.github.io/prototype/images/spicy_korean_cauliflower_bites.png",
                     "title": "Spicy Korean Cauliflower Bites",
                     "recipe": {
                         "steps": [
@@ -1277,7 +1277,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/prototype/prototype/images/corn_on_the_cob.png",
+                    "image": "https://stompfrog.github.io/prototype/images/corn_on_the_cob.png",
                     "title": "Corn on the Cob",
                     "recipe": {
                         "steps": [
@@ -1716,7 +1716,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/prototype/prototype/images/crispy_panko_fish_fry.png",
+                    "image": "https://stompfrog.github.io/prototype/images/crispy_panko_fish_fry.png",
                     "title": "Crispy Panko Fish Fry",
                     "recipe": {
                         "steps": [
@@ -2277,7 +2277,7 @@
                     }
                 },
                 {
-                    "image": "https://stompfrog.github.io/prototype/prototype/images/air_fryer_soft_boiled_eggs.png",
+                    "image": "https://stompfrog.github.io/prototype/images/air_fryer_soft_boiled_eggs.png",
                     "title": "Air Fryer Soft Boiled Eggs",
                     "recipe": {
                         "difficulty": null,
