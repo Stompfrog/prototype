@@ -15,7 +15,7 @@
                     "title": "Corn on the Cob"
                 },
                 {
-                    "image": "https:/stompfrog.github.io/prototype/images/crispy_panko_fish_fry.png",
+                    "image": "https://stompfrog.github.io/prototype/images/crispy_panko_fish_fry.png",
                     "title": "Crispy Panko Fish Fry"
                 },
                 {
@@ -60,10 +60,6 @@
         },
         {
             "items": [
-                {
-                    "image": "https://stompfrog.github.io/prototype/images/crispy_panko_fish_fry.png",
-                    "title": "Crispy Panko Fish Fry"
-                },
                 {
                     "image": "https://stompfrog.github.io/prototype/images/crispy_panko_fish_fry.png",
                     "title": "Crispy Panko Fish Fry"
