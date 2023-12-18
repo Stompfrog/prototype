@@ -222,6 +222,7 @@
                             "items": [
                                 {
                                     "title": "Rare",
+                                    "presetTitle" : "Rare ribeye",
                                     "subtitle": "Cool red center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -239,6 +240,7 @@
                                 },
                                 {
                                     "title": "Medium rare",
+                                    "presetTitle" : "Medium rare ribeye",
                                     "subtitle": "Warm red center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -256,6 +258,7 @@
                                 },
                                 {
                                     "title": "Medium",
+                                    "presetTitle" : "Medium ribeye",
                                     "subtitle": "Warm pink center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -273,6 +276,7 @@
                                 },
                                 {
                                     "title": "Medium well",
+                                    "presetTitle" : "Medium well ribeye",
                                     "subtitle": "Slightly pink center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -290,6 +294,7 @@
                                 },
                                 {
                                     "title": "Well done",
+                                    "presetTitle" : "Well done ribeye",
                                     "subtitle": "Little of no pink",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -313,6 +318,7 @@
                             "items": [
                                 {
                                     "title": "Rare",
+                                    "presetTitle" : "Rare ribeye",
                                     "subtitle": "Cool red center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -330,6 +336,7 @@
                                 },
                                 {
                                     "title": "Medium rare",
+                                    "presetTitle" : "Medium rare ribeye",
                                     "subtitle": "Warm red center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -347,6 +354,7 @@
                                 },
                                 {
                                     "title": "Medium",
+                                    "presetTitle" : "Medium ribeye",
                                     "subtitle": "Warm pink center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -364,6 +372,7 @@
                                 },
                                 {
                                     "title": "Medium well",
+                                    "presetTitle" : "Medium well ribeye",
                                     "subtitle": "Slightly pink center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -381,6 +390,7 @@
                                 },
                                 {
                                     "title": "Well done",
+                                    "presetTitle" : "Well done ribeye",
                                     "subtitle": "Little of no pink",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -404,6 +414,7 @@
                             "items": [
                                 {
                                     "title": "Rare",
+                                    "presetTitle" : "Rare ribeye",
                                     "subtitle": "Cool red center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -421,6 +432,7 @@
                                 },
                                 {
                                     "title": "Medium rare",
+                                    "presetTitle" : "Medium rare ribeye",
                                     "subtitle": "Warm red center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -438,6 +450,7 @@
                                 },
                                 {
                                     "title": "Medium",
+                                    "presetTitle" : "Medium ribeye",
                                     "subtitle": "Warm pink center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -455,6 +468,7 @@
                                 },
                                 {
                                     "title": "Medium well",
+                                    "presetTitle" : "Medium well ribeye",
                                     "subtitle": "Slightly pink center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -472,6 +486,7 @@
                                 },
                                 {
                                     "title": "Well done",
+                                    "presetTitle" : "Well done ribeye",
                                     "subtitle": "Little of no pink",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -495,6 +510,7 @@
                             "items": [
                                 {
                                     "title": "Rare",
+                                    "presetTitle" : "Rare ribeye",
                                     "subtitle": "Cool red center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -512,6 +528,7 @@
                                 },
                                 {
                                     "title": "Medium rare",
+                                    "presetTitle" : "Medium rare ribeye",
                                     "subtitle": "Warm red center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -529,6 +546,7 @@
                                 },
                                 {
                                     "title": "Medium",
+                                    "presetTitle" : "Medium ribeye",
                                     "subtitle": "Warm pink center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -546,6 +564,7 @@
                                 },
                                 {
                                     "title": "Medium well",
+                                    "presetTitle" : "Medium well ribeye",
                                     "subtitle": "Slightly pink center",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
@@ -563,6 +582,7 @@
                                 },
                                 {
                                     "title": "Well done",
+                                    "presetTitle" : "Well done ribeye",
                                     "subtitle": "Little of no pink",
                                     "prep": "Rub the steak lightly with oil and apply seasoning as required. Place in the center of the preheated airfryer.",
                                     "capability": "Grill",
