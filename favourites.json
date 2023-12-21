@@ -1,19 +1,19 @@
 {
-  "favourites" : [
-    {
-        "title": "Chicken breasts in bacon",
-        "subtitle" : "18:00 • 350F",
-        "time_in_seconds" : 1080
-    },
-    {
-        "title": "Potato wedges",
-        "subtitle" : "15:00 • 405ºF",
-        "time_in_seconds" : 900
-    },
-    {
-        "title": "Mediterranean veg",
-        "subtitle" : "12:00 • 380ºF",
-        "time_in_seconds" : 720
-    }
-  ]
+    "favourites": [
+        {
+            "title": "Chicken wings",
+            "subtitle": "12:00 • 400F",
+            "time_in_seconds": 720
+        },
+        {
+            "title": "Chicken quarter",
+            "subtitle": "15:00 • 400ºF",
+            "time_in_seconds": 900
+        },
+        {
+            "title": "Grilled cheese sandwhich",
+            "subtitle": "04:00 • 370ºF",
+            "time_in_seconds": 240
+        }
+    ]
 }
