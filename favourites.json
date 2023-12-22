@@ -2,12 +2,12 @@
     "favourites": [
         {
             "title": "Half chicken",
-            "subtitle": "30:00 • 360F",
-            "time_in_seconds": 1800
+            "subtitle": "18:00 • 380F",
+            "time_in_seconds": 1080
         },
         {
             "title": "Fried potatoes",
-            "subtitle": "15:00 • 405ºF",
+            "subtitle": "15:00 • 380ºF",
             "time_in_seconds": 900
         }
     ]
